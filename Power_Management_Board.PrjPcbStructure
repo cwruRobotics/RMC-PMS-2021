@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=SCH1_Connectors.SchDoc
+Record=TopLevelDocument|FileName=SCH1_Connectors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=SCH1_Connectors.SchDoc|FileName=SCH2_Switching.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=SCH1_Connectors.SchDoc|FileName=SCH3_Microcontroller.SchDoc|SheetNumber= 
