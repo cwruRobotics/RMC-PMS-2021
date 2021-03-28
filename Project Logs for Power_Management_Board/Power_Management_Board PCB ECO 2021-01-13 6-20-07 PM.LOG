@@ -1,0 +1,54 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Kind : Designator=J4 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=J3 Old Kind=Net Tie New Kind=Standard
+Added Component: Designator=J6(HDDR_4x1_0)
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Component: Designator=J7(HDDR_4x1_0)
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=+3.3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+3.3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+3.3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=+3.3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=+3.3 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=+3.3 Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-4
+Added Pin To Net: NetName=NetC18_1 Pin=Y2-1
+Added Pin To Net: NetName=NetC19_1 Pin=Y2-2
+Added Pin To Net: NetName=SWDCLK Pin=J6-3
+Added Pin To Net: NetName=SWDCLK Pin=U8-37
+Added Net: Name=SWDCLK
+Added Pin To Net: NetName=SWDIO Pin=J6-2
+Added Pin To Net: NetName=SWDIO Pin=U8-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=USART1_RX Pin=J7-3
+Added Pin To Net: NetName=USART1_RX Pin=U8-31
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART1_TX Pin=J7-2
+Added Pin To Net: NetName=USART1_TX Pin=U8-30
+Added Net: Name=USART1_TX
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component J6 conn-4x1_0
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component J7 conn-4x1_0

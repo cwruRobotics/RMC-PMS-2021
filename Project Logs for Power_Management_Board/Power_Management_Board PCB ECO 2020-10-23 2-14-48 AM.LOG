@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=BGND Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=BGND Pin=R4-2
+Removed Member From Class: ClassName=SCH1_Connectors Member=R3
+Removed Member From Class: ClassName=SCH1_Connectors Member=R4
+Change Component Footprint: Designator=R1 Old Footprint=chip_1206 New Footprint=chip_2512
+Change Component Footprint: Designator=R2 Old Footprint=chip_1206 New Footprint=chip_2512
+Change Component Comment : Designator=R1 Old Comment=0.003 New Comment=0.0015
+Change Component Comment : Designator=R2 Old Comment=0.003 New Comment=0.0015
+Change component parameters: Designator = "R1" ("R1"); Footprint = "chip_1206"; UniqueID = "\DTRDNOEQ" ("\DTRDNOEQ")
+Change component parameters (AddParameter): Name = "Cost"; Value = "1.04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "TLR3A30DR0015FTDG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES-00716"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "3W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0.0015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "chip_1206"; UniqueID = "\MFHTMOIU" ("\MFHTMOIU")
+Change component parameters (AddParameter): Name = "Cost"; Value = "1.04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "TLR3A30DR0015FTDG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES-00716"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "3W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0.0015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"

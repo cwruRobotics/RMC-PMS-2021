@@ -1,0 +1,22 @@
+Added Component: Designator=R40(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF4701"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R41(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF4701"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=R40-1
+Added Pin To Net: NetName=NetD16_1 Pin=R40-2
+Added Pin To Net: NetName=+3.3 Pin=R41-1
+Added Pin To Net: NetName=NetD15_1 Pin=R41-2
+Change Net Name : Old Net Name=NetD15_1 New Net Name=I2C_SCL_PROT
+Change Net Name : Old Net Name=NetD16_1 New Net Name=I2C_SDA_PROT
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R40 4.7k
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R41 4.7k

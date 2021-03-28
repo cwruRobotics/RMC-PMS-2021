@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=+3.3 Pin=SW1-1
+Removed Pin From Net: NetName=+3.3 Pin=SW1-2
+Change Component Footprint: Designator=R36 Old Footprint=chip_0603 New Footprint=chip_0805
+Change Component Comment : Designator=R36 Old Comment=1.1k New Comment=1k
+Change component parameters: Designator = "R36" ("R36"); Footprint = "chip_0603"; UniqueID = "\KAVDFDHC" ("\KAVDFDHC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF1001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES-00361"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=D17(chip_0603_LED)
+Add component (AddParameter): Name = "Cost"; Value = "0.58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.65V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "APT1608LVBC/D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DIO-00049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "120mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D18(chip_0603_LED)
+Add component (AddParameter): Name = "Cost"; Value = "0.58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.65V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "APT1608LVBC/D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DIO-00049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "120mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D19(chip_0603_LED)
+Add component (AddParameter): Name = "Cost"; Value = "0.58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.65V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "APT1608LVBC/D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DIO-00049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "120mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=R3(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF3300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF3300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R37(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF3300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D17-1
+Added Pin To Net: NetName=GND Pin=D18-1
+Added Pin To Net: NetName=GND Pin=D19-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=B1_EN_LED Pin=R3-1
+Added Pin To Net: NetName=B1_EN_LED Pin=U8-18
+Added Net: Name=B1_EN_LED
+Added Pin To Net: NetName=B2_EN_LED Pin=R4-1
+Added Pin To Net: NetName=B2_EN_LED Pin=U8-19
+Added Net: Name=B2_EN_LED
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=NetD17_2 Pin=R3-2
+Added Net: Name=NetD17_2
+Added Pin To Net: NetName=NetD18_2 Pin=D18-2
+Added Pin To Net: NetName=NetD18_2 Pin=R4-2
+Added Net: Name=NetD18_2
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD19_2 Pin=R37-2
+Added Net: Name=NetD19_2
+Added Pin To Net: NetName=PSU_EN_LED Pin=R37-1
+Added Pin To Net: NetName=PSU_EN_LED Pin=U8-20
+Added Net: Name=PSU_EN_LED
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component D17 2.65V
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component D18 2.65V
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component D19 2.65V
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R3 330
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R4 330
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R37 330

@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=R3 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R4 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R37 Old Footprint=chip_0805 New Footprint=chip_0805
+Added Component: Designator=D20(chip_0603_LED)
+Add component (AddParameter): Name = "Cost"; Value = "0.58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.65V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "APT1608LVBC/D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DIO-00049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "120mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=R38(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF3300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D20-1
+Added Pin To Net: NetName=+3.3 Pin=R38-1
+Added Pin To Net: NetName=NetD20_2 Pin=D20-2
+Added Pin To Net: NetName=NetD20_2 Pin=R38-2
+Added Net: Name=NetD20_2
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component D20 2.65V
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R38 330

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\adam\Documents\CWRU\CWRUbotix\E-Bay Mockup\Power_Management_Board\Power_Management_Board.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,55 @@
+Change Component Footprint: Designator=C20 Old Footprint=CP_RADIAL_D16.0_P7.5_H27.0 New Footprint=CP_RADIAL_D10.0_P5.0_H20.0
+Change Component Footprint: Designator=C21 Old Footprint=CP_RADIAL_D16.0_P7.5_H27.0 New Footprint=CP_RADIAL_D10.0_P5.0_H20.0
+Change Component Footprint: Designator=C22 Old Footprint=CP_RADIAL_D16.0_P7.5_H27.0 New Footprint=CP_RADIAL_D10.0_P5.0_H20.0
+Change Component Footprint: Designator=C23 Old Footprint=CP_RADIAL_D16.0_P7.5_H27.0 New Footprint=CP_RADIAL_D10.0_P5.0_H20.0
+Change Component Footprint: Designator=C24 Old Footprint=CP_RADIAL_D16.0_P7.5_H27.0 New Footprint=CP_RADIAL_D10.0_P5.0_H20.0
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CP_RADIAL_D16.0_P7.5_H27.0"; UniqueID = "\LFXXVJKO" ("\LFXXVJKO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "$0.70"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = "https://www.digikey.com/en/products/detail/nichicon/UPW1J221MPD/589683"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "UPW1J221MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-00591"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CP_RADIAL_D16.0_P7.5_H27.0"; UniqueID = "\EVADIXTE" ("\EVADIXTE")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "$0.70"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = "https://www.digikey.com/en/products/detail/nichicon/UPW1J221MPD/589683"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "UPW1J221MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-00591"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CP_RADIAL_D16.0_P7.5_H27.0"; UniqueID = "\YBJPWHVH" ("\YBJPWHVH")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "$0.70"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = "https://www.digikey.com/en/products/detail/nichicon/UPW1J221MPD/589683"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "UPW1J221MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-00591"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CP_RADIAL_D16.0_P7.5_H27.0"; UniqueID = "\HYFISXDM" ("\HYFISXDM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "$0.70"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = "https://www.digikey.com/en/products/detail/nichicon/UPW1J221MPD/589683"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "UPW1J221MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-00591"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CP_RADIAL_D16.0_P7.5_H27.0"; UniqueID = "\RPYUUNOW" ("\RPYUUNOW")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "$0.70"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = "https://www.digikey.com/en/products/detail/nichicon/UPW1J221MPD/589683"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "UPW1J221MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-00591"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"

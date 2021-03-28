@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+PSU Pin=P9-1
+Removed Pin From Net: NetName=BGND Pin=P9-2
+Added Pin To Net: NetName=BGND Pin=P9-1
+Added Pin To Net: NetName=+PSU Pin=P9-2

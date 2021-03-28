@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BGND Pin=P9-1
+Removed Pin From Net: NetName=+PSU Pin=P9-2
+Change Component Footprint: Designator=C13 Old Footprint=chip_0805 New Footprint=chip_0805
+Added Pin To Net: NetName=+PSU Pin=P9-1
+Added Pin To Net: NetName=BGND Pin=P9-2

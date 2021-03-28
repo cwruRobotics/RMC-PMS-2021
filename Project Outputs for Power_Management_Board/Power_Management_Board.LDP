@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\adam\Documents\CWRU\CWRUbotix\E-Bay Mockup\Power_Management_Board\Power_Management_Board.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=power_management_board-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=power_management_board-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=power_management_board-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

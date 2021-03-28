@@ -1,0 +1,28 @@
+Change Component Kind : Designator=J4 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=J3 Old Kind=Net Tie New Kind=Standard
+Added Component: Designator=C13(chip_0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "GRM21BR70J106KE76L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00134"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=U9(sot-223-4)
+Add component (AddParameter): Name = "Cost"; Value = "1.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fixed/Adj"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LM1117MPX-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "800mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PWREG-00018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reg Type"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Range In"; Value = "4.5 - 15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Range Out"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=+3.3 Pin=U9-2
+Added Pin To Net: NetName=+24V Pin=U9-3
+Added Pin To Net: NetName=+3.3 Pin=U9-4
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component C13 10uF
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component U9 LM1117

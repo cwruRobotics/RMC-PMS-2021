@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Power_Management_Board.PrjPcb]
+   Generated File[Power_Management_Board-RoundHoles-Plated.TXT]
+   Generated File[Power_Management_Board-RoundHoles-NonPlated.TXT]
+   Generated File[Power_Management_Board-SlotHoles-Plated.TXT]
+   Generated File[Power_Management_Board.LDP]
+   Generated File[Power_Management_Board.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 6:43:40 PM On 2021-03-21

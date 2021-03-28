@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetD3_2 Pin=R12-1
+Removed Pin From Net: NetName=NetR12_2 Pin=R12-2
+Change Component Footprint: Designator=R38 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Comment : Designator=R12 Old Comment=2.2k New Comment=330
+Change component parameters: Designator = "R12" ("R12"); Footprint = "chip_0805"; UniqueID = "\LNIEWGIX" ("\LNIEWGIX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF3300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES-00222"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR12_2 Pin=R12-1
+Added Pin To Net: NetName=NetD3_2 Pin=R12-2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR12_1

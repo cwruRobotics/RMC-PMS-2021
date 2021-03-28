@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=C25 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C26 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C27 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=L2 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R42 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R43 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R44 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R45 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C28 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=C29 Old Footprint=chip_1206 New Footprint=chip_1206
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-9

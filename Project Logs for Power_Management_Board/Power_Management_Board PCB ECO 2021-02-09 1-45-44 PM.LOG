@@ -1,0 +1,155 @@
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=U9-1
+Removed Pin From Net: NetName=+3.3 Pin=U9-2
+Removed Pin From Net: NetName=+24V Pin=U9-3
+Removed Pin From Net: NetName=+3.3 Pin=U9-4
+Change Component Footprint: Designator=R40 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R41 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=U9 Old Footprint=sot-223-4 New Footprint=SO-8_PPAD
+Change Component Comment : Designator=U9 Old Comment=LM1117 New Comment=LM5164DDAR
+Change component parameters: Designator = "U9" ("U9"); Footprint = "sot-223-4"; UniqueID = "\UNLUQRBQ" ("\UNLUQRBQ")
+Change component parameters (AddParameter): Name = "Cost"; Value = "3.57"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fixed/Adj"; Value = "Adj"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "LM5164DDAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PWREG-00046"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reg Type"; Value = "SW Buck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Range In"; Value = "6 - 100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Range Out"; Value = "1.2 - 100V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(chip_0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "1200pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "GRM1885C1H122FA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(chip_0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "2200pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "GRM1885C1H222GA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(chip_0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "GRM1885C1H101GA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C28(chip_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "$0.33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "C1206C225K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C29(chip_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "$0.33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "C1206C225K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=L1(BOURNS_SRN5040)
+Add component (AddParameter): Name = "Cost"; Value = "0.46"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR"; Value = "59mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "6.8uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "SRN5040-6R8M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MAG-00118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Added Component: Designator=L2(chip_0805)
+Add component (AddParameter): Name = "Current Rating"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR"; Value = "100 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "MLZ2012A1R0M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MAG-00009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Added Component: Designator=R42(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF1003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00302"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R43(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF1743"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "174k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R44(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF8251"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "8.25k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R45(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF1003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00302"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C25-2
+Added Pin To Net: NetName=+24V Pin=C28-1
+Added Pin To Net: NetName=+3.3 Pin=L1-2
+Added Pin To Net: NetName=+24V Pin=L2-1
+Added Pin To Net: NetName=+3.3 Pin=R43-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=C28-2
+Added Pin To Net: NetName=NetC13_2 Pin=C29-2
+Added Pin To Net: NetName=NetC13_2 Pin=R44-2
+Added Pin To Net: NetName=NetC13_2 Pin=R45-1
+Added Pin To Net: NetName=NetC13_2 Pin=U9-1
+Added Pin To Net: NetName=NetC13_2 Pin=U9-9
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=C27-1
+Added Pin To Net: NetName=NetC25_1 Pin=R42-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=L1-1
+Added Pin To Net: NetName=NetC26_1 Pin=R42-2
+Added Pin To Net: NetName=NetC26_1 Pin=U9-8
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=U9-7
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=R43-2
+Added Pin To Net: NetName=NetC27_2 Pin=R45-2
+Added Pin To Net: NetName=NetC27_2 Pin=U9-5
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=L2-2
+Added Pin To Net: NetName=NetC29_1 Pin=U9-2
+Added Pin To Net: NetName=NetC29_1 Pin=U9-3
+Added Net: Name=NetC29_1
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=NetR44_1 Pin=U9-4
+Added Net: Name=NetR44_1
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component C25 1200pF
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component C26 2200pF
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component C27 100pF
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component C28 2.2uF
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component C29 2.2uF
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component L1 6.8uH
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component L2 1uH
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R42 100k
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R43 174k
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R44 8.25k
+Added Member To Class: ClassName=SCH3_Microcontroller Member=Component R45 100k
